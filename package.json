@@ -1,0 +1,16 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "a project to generate qr codes from the users input urls",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boniphace Bageme",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^13.0.1",
+    "qrcode": "^1.5.4"
+  }
+}
